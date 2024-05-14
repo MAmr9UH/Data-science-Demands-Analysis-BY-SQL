@@ -214,7 +214,7 @@ Top Optimal skills
 Chat Gpt generated this table from my SQL query
 
 
-# what I Learned
+# What I Learned
 
 Throughout this adventure, I've turbocharged my SQL toolkit with some serious firepower:
 
